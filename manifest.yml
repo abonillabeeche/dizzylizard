@@ -3,3 +3,4 @@
 # We have created a delivery pipeline
 applications:
  - name: dizzy-lizard
+   buildpack: nodejs_buildpack

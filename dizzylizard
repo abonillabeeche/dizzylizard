@@ -4,4 +4,4 @@
 applications:
  - name: dizzy-lizard
    buildpack: nodejs_buildpack
-   instances: 6
+   instances: 2

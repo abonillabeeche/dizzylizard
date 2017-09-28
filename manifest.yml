@@ -5,5 +5,5 @@ applications:
  - name: dizzylizard
    buildpack: nodejs_buildpack
    memory: 512M
-   disk_quota: 50M
+   disk_quota: 200M
    instances: 1

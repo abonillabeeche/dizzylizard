@@ -6,4 +6,4 @@ applications:
    buildpack: nodejs_buildpack
    memory: 512M
    disk_quota: 768M
-   instances: 1
+   instances: 20

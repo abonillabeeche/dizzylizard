@@ -1,7 +1,7 @@
 {
   "name": "clumsy-bird",
   "version": "0.1.0",
-  "description": "Clumsy Bird - A MelonJS port of the famous Flappy Bird game",
+  "description": "Dizzy Lizard - A MelonJS port of the famous Flappy Bird game",
   "homepage": "http://ellisonleao.github.io/clumsy-bird/",
   "repository": {
     "type": "git",
